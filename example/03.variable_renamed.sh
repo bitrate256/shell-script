@@ -1,4 +1,4 @@
-#!/bash
+#!/bin/bash
 # 환경변수 이름 앞에 달러 기호를 사용하면 스크립트 안에서 환경변수 활용 가능
 echo "User info for userid: $USER"
 echo UID: $UID
