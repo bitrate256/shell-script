@@ -19,6 +19,6 @@ guest="Jessica"
 echo "$guest checked out in $days days ago"
 
 # /bash: bad interpreter: No such file or directory
-# mac에서 실행시 상기 오류 발생중.
-# 개행문자(글자로는 ^M로 보임)가 os 별로 달라서 발생하는 문제 같은데...
-# 맞다면 반대로 할때도 똑같은건가?
+
+# 상기 실행 오류는
+# /bin/bash를 bash로 명시해서 생긴 문제 임.
