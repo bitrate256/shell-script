@@ -1,1 +1,3 @@
 고급 Bash 스크립팅 가이드 참조
+
+# mac terminal modify test
